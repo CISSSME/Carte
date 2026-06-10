@@ -1,14 +1,14 @@
 {
   "miseAJour": "2026-06-01",
   "annonce": {
-    "texte": "Cocktail & bouchées — 15 juin à 18 h, au Restaurant l'Élan (Parcours du Cerf, Longueuil). Inscription avant le 1er juin.",
+    "texte": "Cocktail & bouchées — 15 juin à 18 h, au Restaurant l'Élan (Parcours du Cerf, Longueuil).",
     "lienCarte": "https://www.google.com/maps/search/?api=1&query=Restaurant%20l%27%C3%89lan%2C%202500%20boulevard%20Fernand-Lafontaine%2C%20Longueuil%20QC%20J4N%201M5"
   },
   "cliniques": [
     {
       "id": 1,
       "nom": "GMF du Petit-Bois ",
-      "alias": "Clinique la Relève",
+      "alias": "",
       "type": "GMF",
       "adresse": "1471, boulevard Lionel-Boulet, Bureau 21, Varennes QC J3X 1P7",
       "ville": "Varennes",
@@ -38,12 +38,17 @@
       "notes": "",
       "photo": null,
       "rls": "Pierre-Boucher",
-      "posApprox": false
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 2,
       "nom": "GMF 3090",
-      "alias": "Clinique Médicale Chemin Chambly",
+      "alias": "",
       "type": "GMF",
       "adresse": "3090, chemin de Chambly, Bureau 101, Longueuil QC J4L 4N5",
       "ville": "Longueuil",
@@ -73,12 +78,17 @@
       "notes": "",
       "photo": null,
       "rls": "Pierre-Boucher",
-      "posApprox": false
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 3,
       "nom": "Clinique CAMU Longueuil",
-      "alias": "Clinique Médicale Urgence CAMU",
+      "alias": "",
       "type": "GMF satellite",
       "adresse": "1144, rue Saint-Laurent Ouest, Bureau 100, Longueuil QC J4K 1E2",
       "ville": "Longueuil",
@@ -108,7 +118,12 @@
       "notes": "",
       "photo": null,
       "rls": "Pierre-Boucher",
-      "posApprox": false
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 4,
@@ -143,7 +158,12 @@
       "notes": "",
       "photo": null,
       "rls": "Pierre-Boucher",
-      "posApprox": false
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 12,
@@ -178,7 +198,12 @@
       "notes": "",
       "photo": null,
       "rls": "Pierre-Boucher",
-      "posApprox": false
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 13,
@@ -213,12 +238,17 @@
       "notes": "",
       "photo": null,
       "rls": "Pierre-Boucher",
-      "posApprox": false
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 5,
       "nom": "GMF-R Pierre-Boucher",
-      "alias": "MAclinique Pierre-Boucher",
+      "alias": "",
       "type": "GMF-R",
       "adresse": "Bureau 110 – 1615, boulevard Jacques-Cartier Est, Longueuil QC J4M 2X1",
       "ville": "Longueuil",
@@ -248,7 +278,12 @@
       "notes": "",
       "photo": null,
       "rls": "Pierre-Boucher",
-      "posApprox": false
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 6,
@@ -283,12 +318,17 @@
       "notes": "",
       "photo": null,
       "rls": "Pierre-Boucher",
-      "posApprox": false
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 7,
       "nom": "GMF des Îles-Percées",
-      "alias": "Centre Médical Boucherville",
+      "alias": "",
       "type": "GMF",
       "adresse": "600, boulevard du Fort-Saint-Louis, Bureau 201, Boucherville QC J4B 1S7",
       "ville": "Boucherville",
@@ -318,12 +358,17 @@
       "notes": "",
       "photo": null,
       "rls": "Pierre-Boucher",
-      "posApprox": false
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 8,
       "nom": "GMF des Seigneuries",
-      "alias": "CLSC des Seigneuries",
+      "alias": "",
       "type": "GMF",
       "adresse": "2220, boulevard René-Gaultier, Varennes QC J3X 1E3",
       "ville": "Varennes",
@@ -353,12 +398,17 @@
       "notes": "",
       "photo": null,
       "rls": "Pierre-Boucher",
-      "posApprox": false
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 9,
       "nom": "GMF Marguerite d'Youville",
-      "alias": "Clinique Familiale des Hauts-Bois",
+      "alias": "",
       "type": "GMF",
       "adresse": "2105, boulevard Armand-Frappier, Bureau 301, Sainte-Julie QC J3E 3R6",
       "ville": "Sainte-Julie",
@@ -388,12 +438,17 @@
       "notes": "",
       "photo": null,
       "rls": "Pierre-Boucher",
-      "posApprox": false
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 10,
       "nom": "GMF Sainte-Julie",
-      "alias": "Clinique Médicale Sainte-Julie",
+      "alias": "",
       "type": "GMF",
       "adresse": "286, rue de Normandie, Sainte-Julie QC J3E 1A7",
       "ville": "Sainte-Julie",
@@ -423,7 +478,12 @@
       "notes": "",
       "photo": null,
       "rls": "Pierre-Boucher",
-      "posApprox": false
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 14,
@@ -433,17 +493,37 @@
       "rls": "Richelieu-Yamaska",
       "adresse": "300, boulevard Serge-Pépin, Beloeil QC J3G 0B8",
       "ville": "Beloeil",
-      "lat": 45.564,
-      "lng": -73.193,
-      "telephone": "",
+      "lat": 45.5909489,
+      "lng": -73.2000399,
+      "telephone": "450 536-2572",
       "site": "",
       "personneRessource": "Claire.wadoux.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "7h00 – 21h00",
+        "Mardi": "7h00 – 21h00",
+        "Mercredi": "7h00 – 21h00",
+        "Jeudi": "7h00 – 21h00",
+        "Vendredi": "7h00 – 17h00",
+        "Samedi": "8h00 – 16h00",
+        "Dimanche": "8h00 – 16h00"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 15,
@@ -453,17 +533,37 @@
       "rls": "Richelieu-Yamaska",
       "adresse": "1015, rue Gauthier, Saint-Hyacinthe QC J2S 8T2",
       "ville": "Saint-Hyacinthe",
-      "lat": 45.6258,
-      "lng": -72.953,
+      "lat": 45.6368865,
+      "lng": -72.9599685,
       "telephone": "450 778-2572",
       "site": "",
       "personneRessource": "julie.gagnon.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "8h00 – 21h00",
+        "Mardi": "8h00 – 0h00",
+        "Mercredi": "8h00 – 21h00",
+        "Jeudi": "8h00 – 21h00",
+        "Vendredi": "8h00 – 21h00",
+        "Samedi": "8h00 – 16h00",
+        "Dimanche": "8h00 – 16h00"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 16,
@@ -471,19 +571,39 @@
       "alias": "",
       "type": "GMF-U",
       "rls": "Richelieu-Yamaska",
-      "adresse": "1005, rue Gauthier, Saint-Hyacinthe QC J2S 8T2",
+      "adresse": "1021, rue Gauthier, Saint-Hyacinthe QC J2S 8T2",
       "ville": "Saint-Hyacinthe",
-      "lat": 45.6256,
-      "lng": -72.9527,
+      "lat": 45.6374416,
+      "lng": -72.9590926,
       "telephone": "450 771-3558",
       "site": "",
       "personneRessource": "philippe.imbeault.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "8h00 – 17h00",
+        "Mardi": "8h00 – 17h00",
+        "Mercredi": "8h00 – 17h00",
+        "Jeudi": "8h00 – 17h00",
+        "Vendredi": "8h00 – 17h00",
+        "Samedi": "Fermé",
+        "Dimanche": "Fermé"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 17,
@@ -491,19 +611,39 @@
       "alias": "",
       "type": "GMF",
       "rls": "Richelieu-Yamaska",
-      "adresse": "1220, boulevard Casavant Est, local 302, Saint-Hyacinthe QC J2S 0L6",
+      "adresse": "1050, boulevard Casavant Est, local 302, Saint-Hyacinthe QC J2S 0L6",
       "ville": "Saint-Hyacinthe",
-      "lat": 45.6168,
-      "lng": -72.93,
+      "lat": 45.6464015,
+      "lng": -72.9538057,
       "telephone": "450 385-0505",
       "site": "https://gmfmaska.com",
       "personneRessource": "lena.wognin.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "9h00 – 17h00",
+        "Mardi": "9h00 – 17h00",
+        "Mercredi": "9h00 – 17h00",
+        "Jeudi": "9h00 – 17h00",
+        "Vendredi": "9h00 – 17h00",
+        "Samedi": "Fermé",
+        "Dimanche": "Fermé"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 18,
@@ -513,17 +653,37 @@
       "rls": "Richelieu-Yamaska",
       "adresse": "620, chemin des Patriotes, bureau 202, Saint-Denis-sur-Richelieu QC J0H 1K0",
       "ville": "Saint-Denis-sur-Richelieu",
-      "lat": 45.787,
-      "lng": -73.118,
+      "lat": 45.7839061,
+      "lng": -73.1597819,
       "telephone": "450 787-3233",
       "site": "https://www.coopsantestdenis.com",
       "personneRessource": "julie.lafrenaye.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "8h30 – 16h00",
+        "Mardi": "8h30 – 16h00",
+        "Mercredi": "8h30 – 16h00",
+        "Jeudi": "8h30 – 16h00",
+        "Vendredi": "8h30 – 16h00",
+        "Samedi": "Fermé",
+        "Dimanche": "Fermé"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 19,
@@ -533,17 +693,37 @@
       "rls": "Richelieu-Yamaska",
       "adresse": "201-4605, chemin du Crépuscule, Saint-Mathieu-de-Beloeil QC J3G 0R2",
       "ville": "Saint-Mathieu-de-Beloeil",
-      "lat": 45.579,
-      "lng": -73.242,
+      "lat": 45.588397,
+      "lng": -73.283317,
       "telephone": "",
       "site": "",
       "personneRessource": "elizabeth.dougherty.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "8h00 – 21h00",
+        "Mardi": "8h00 – 21h00",
+        "Mercredi": "8h00 – 21h00",
+        "Jeudi": "8h00 – 21h00",
+        "Vendredi": "8h30 – 16h00",
+        "Samedi": "8h30 – 12h30",
+        "Dimanche": "8h30 – 12h30"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 20,
@@ -553,17 +733,37 @@
       "rls": "Richelieu-Yamaska",
       "adresse": "665, boulevard Sir-Wilfrid-Laurier, Beloeil QC J3G 4J1",
       "ville": "Beloeil",
-      "lat": 45.572,
-      "lng": -73.206,
+      "lat": 45.5634229,
+      "lng": -73.2051779,
       "telephone": "450 467-0088",
       "site": "https://carrefourmedical.com",
       "personneRessource": "michel.beaudoin.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "8h00 – 20h00",
+        "Mardi": "8h00 – 20h00",
+        "Mercredi": "8h00 – 20h00",
+        "Jeudi": "8h00 – 20h00",
+        "Vendredi": "8h00 – 20h00",
+        "Samedi": "8h00 – 12h00",
+        "Dimanche": "8h00 – 12h00"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 21,
@@ -573,17 +773,37 @@
       "rls": "Richelieu-Yamaska",
       "adresse": "101-275, boulevard Sir-Wilfrid-Laurier, Saint-Basile-le-Grand QC J3N 1V6",
       "ville": "Saint-Basile-le-Grand",
-      "lat": 45.534,
-      "lng": -73.289,
+      "lat": 45.5255962,
+      "lng": -73.3022476,
       "telephone": "450 653-7323",
       "site": "https://centremedicalsaintbasile.org",
       "personneRessource": "pierre-olivier.barrette.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "8h00 – 17h00",
+        "Mardi": "8h00 – 17h00",
+        "Mercredi": "8h00 – 20h00",
+        "Jeudi": "8h00 – 20h00",
+        "Vendredi": "8h00 – 17h00",
+        "Samedi": "8h00 – 13h00",
+        "Dimanche": "Fermé"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 22,
@@ -593,17 +813,37 @@
       "rls": "Richelieu-Yamaska",
       "adresse": "2955, boulevard Laframboise, Saint-Hyacinthe QC J2S 4Z3",
       "ville": "Saint-Hyacinthe",
-      "lat": 45.645,
-      "lng": -72.958,
+      "lat": 45.6344643,
+      "lng": -72.964373,
       "telephone": "450 774-4611",
       "site": "https://gmflaframboise.ca",
       "personneRessource": "josee-maude.lambert.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "8h30 – 20h30",
+        "Mardi": "8h30 – 20h30",
+        "Mercredi": "8h30 – 20h30",
+        "Jeudi": "8h30 – 20h30",
+        "Vendredi": "8h30 – 20h30",
+        "Samedi": "9h00 – 13h00",
+        "Dimanche": "9h00 – 13h00"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 23,
@@ -613,17 +853,37 @@
       "rls": "Richelieu-Yamaska",
       "adresse": "88, chemin de la Rabastalière Ouest, Saint-Bruno-de-Montarville QC J3V 1Y8",
       "ville": "Saint-Bruno-de-Montarville",
-      "lat": 45.531,
-      "lng": -73.36,
+      "lat": 45.526125,
+      "lng": -73.343204,
       "telephone": "450 690-3690",
       "site": "https://cliniquemedicalelesentier.com",
       "personneRessource": "sarah.bedard.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "8h00 – 17h00",
+        "Mardi": "8h00 – 21h00",
+        "Mercredi": "8h00 – 17h00",
+        "Jeudi": "8h00 – 17h00",
+        "Vendredi": "8h00 – 16h00",
+        "Samedi": "8h00 – 12h00",
+        "Dimanche": "8h00 – 12h00"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 24,
@@ -633,17 +893,37 @@
       "rls": "Richelieu-Yamaska",
       "adresse": "755, rue de Roxton, Acton Vale QC J0H 1A0",
       "ville": "Acton Vale",
-      "lat": 45.648,
-      "lng": -72.563,
+      "lat": 45.6450255,
+      "lng": -72.5711159,
       "telephone": "450 546-3245",
       "site": "https://coopsanteacton.ca",
       "personneRessource": "marilou.desmarais-noiseux.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "8h00 – 21h00",
+        "Mardi": "8h00 – 17h00",
+        "Mercredi": "8h00 – 21h00",
+        "Jeudi": "8h00 – 17h00",
+        "Vendredi": "8h00 – 16h00",
+        "Samedi": "Fermé",
+        "Dimanche": "8h00 – 12h00"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 25,
@@ -653,17 +933,37 @@
       "rls": "Pierre-De Saurel",
       "adresse": "30, rue Ferland, Sorel-Tracy QC J3P 3C7",
       "ville": "Sorel-Tracy",
-      "lat": 46.0388,
-      "lng": -73.1085,
+      "lat": 46.045153,
+      "lng": -73.0937327,
       "telephone": "450 746-4545",
       "site": "",
       "personneRessource": "mathieu.galfard.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "8h00 – 20h00",
+        "Mardi": "8h00 – 20h00",
+        "Mercredi": "8h00 – 20h00",
+        "Jeudi": "8h00 – 20h00",
+        "Vendredi": "8h00 – 20h00",
+        "Samedi": "8h00 – 16h00",
+        "Dimanche": "8h00 – 16h00"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 26,
@@ -673,17 +973,37 @@
       "rls": "Pierre-De Saurel",
       "adresse": "330, avenue de l'Hôtel-Dieu, Sorel-Tracy QC J3P 1N4",
       "ville": "Sorel-Tracy",
-      "lat": 46.0455,
-      "lng": -73.1135,
+      "lat": 46.0458154,
+      "lng": -73.0976404,
       "telephone": "450 742-9459",
       "site": "https://cliniquemedicalesorel-tracy.ca",
       "personneRessource": "emilie.boisvert.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "8h30 – 16h30",
+        "Mardi": "8h30 – 16h30",
+        "Mercredi": "8h30 – 16h30",
+        "Jeudi": "8h30 – 16h30",
+        "Vendredi": "8h30 – 16h30",
+        "Samedi": "Fermé",
+        "Dimanche": "Fermé"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     },
     {
       "id": 27,
@@ -693,17 +1013,37 @@
       "rls": "Pierre-De Saurel",
       "adresse": "200-500, route Marie-Victorin, Sorel-Tracy QC J3R 1K7",
       "ville": "Sorel-Tracy",
-      "lat": 46.018,
-      "lng": -73.152,
+      "lat": 46.0397993,
+      "lng": -73.1240655,
       "telephone": "450 742-5638",
       "site": "https://gmfrichelieu.com",
       "personneRessource": "claudia.morneau.med@ssss.gouv.qc.ca",
       "dme": "",
-      "horaire": {},
-      "personnel": {},
+      "horaire": {
+        "Lundi": "8h30 – 16h30",
+        "Mardi": "8h00 – 20h00",
+        "Mercredi": "8h00 – 20h00",
+        "Jeudi": "8h00 – 20h00",
+        "Vendredi": "8h00 – 16h00",
+        "Samedi": "8h30 – 12h30",
+        "Dimanche": "Fermé"
+      },
+      "personnel": {
+        "medecins": "",
+        "infirmieres": "",
+        "ipspl": "",
+        "physiotherapeutes": "",
+        "pharmaciennes": "",
+        "travailleuresSociales": ""
+      },
       "notes": "",
       "photo": null,
-      "posApprox": true
+      "posApprox": false,
+      "bureau": "",
+      "frais": "",
+      "pratiques": [],
+      "niveau": "",
+      "porteOuverte": ""
     }
   ]
 }

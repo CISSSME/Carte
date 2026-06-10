@@ -1,14 +1,24 @@
 // Service worker — Cliniques RLS Pierre-Boucher
-const CACHE = 'gmf-pb-v13';
+const CACHE = 'gmf-pb-v53';
 const CORE = [
   './',
   './index.html',
+  './leaflet.css',
+  './leaflet.js',
   './data.json',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
   './icon-512-maskable.png',
-  './apple-touch-icon-180.png'
+  './apple-touch-icon-180.png',
+  './fonts/raleway-latin-300-normal.woff2',
+  './fonts/raleway-latin-400-normal.woff2',
+  './fonts/raleway-latin-600-normal.woff2',
+  './fonts/raleway-latin-700-normal.woff2',
+  './fonts/raleway-latin-800-normal.woff2',
+  './fonts/lato-latin-300-normal.woff2',
+  './fonts/lato-latin-400-normal.woff2',
+  './fonts/lato-latin-700-normal.woff2'
 ];
 
 // Installation : mise en cache de la coquille de l'application

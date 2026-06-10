@@ -1,7 +1,7 @@
 {
   "id": "/gmf-pierre-boucher/",
-  "name": "Cliniques en recrutement — Montérégie-Est",
-  "short_name": "RLS PB",
+  "name": "CISSS-ME",
+  "short_name": "CISSS-ME",
   "description": "Carte interactive des cliniques en recrutement de la Montérégie-Est : RLS Pierre-Boucher, Pierre-De Saurel et Richelieu-Yamaska.",
   "lang": "fr-CA",
   "dir": "ltr",
@@ -9,7 +9,7 @@
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#f8f6f1",
+  "background_color": "#0f2240",
   "theme_color": "#0f2240",
   "categories": [
     "medical",
